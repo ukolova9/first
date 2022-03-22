@@ -1,0 +1,15 @@
+.title {
+  color: blueviolet;
+  font-size: 26px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 30px;
+}
+#champions {
+  font-size: 18px;
+  margin: 30px;
+  border-style: double;
+  border-width: 1px;
+  border-color: blue;
+  width: 200px;
+  text-align: center;
+}
