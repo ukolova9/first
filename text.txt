@@ -1,1 +1,2 @@
 I want to do a conflict file
+New changes
