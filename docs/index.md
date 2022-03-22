@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <link rel="stylesheet" href="style.css">
-        <title>Hello!</title>
     </head>
     <body>
         <h1 class="title">Hello, World!</h1>
